@@ -2,6 +2,7 @@
 
 Xoş gəlmisiniz!
 
+### https://github.com/frdgsmva/Mini-Mind-Academy/blob/main/photo_2025-07-15_13-46-59.jpg
 
 ## Kurs Haqqında
 🧑🏻‍💻 İbtidai sinif şagirdləri üçün online kurs
